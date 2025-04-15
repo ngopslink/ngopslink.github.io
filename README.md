@@ -35,6 +35,13 @@ DIMS adalah sistem manajemen data terintegrasi yang menjadi pusat pengelolaan se
 Mulai dari data penghuni, log akses TAMS, histori penggunaan layanan KUY, hingga performa jaringan GOW—semuanya dikelola dalam satu platform aman, efisien, dan mudah diakses oleh pihak pengelola.
 DIMS memungkinkan pengambilan keputusan berbasis data yang akurat, real-time, dan berkelanjutan.
 
+## IMS – Infrastructure Management System
+
+IMS adalah sistem manajemen infrastruktur yang mencakup pengelolaan perangkat digital dan fisik di lingkungan komplek.
+Melalui IMS, seluruh elemen infrastruktur seperti kabel fiber optik, perangkat barrier gate, router, CCTV, hingga perangkat penghuni dapat dicatat, dimonitor, dan dipelihara secara terstruktur dan terintegrasi.
+
+IMS mempermudah proses inventarisasi, maintenance, dan pengembangan infrastruktur, sehingga menjamin keandalan dan kontinuitas layanan digital bagi seluruh penghuni komplek.
+
 ## GOBS – Gangguan Operasional Backbone Sementara
 
 GOBS adalah sistem pemantauan dan pengelolaan gangguan operasional pada jaringan backbone NGOPS.
