@@ -47,3 +47,11 @@ IMS mempermudah proses inventarisasi, maintenance, dan pengembangan infrastruktu
 GOBS adalah sistem pemantauan dan pengelolaan gangguan operasional pada jaringan backbone NGOPS.
 Dengan GOBS, pengelola jaringan dapat mendeteksi gangguan atau penurunan performa jaringan dengan cepat, meminimalkan downtime, dan mengambil tindakan perbaikan segera.
 Sistem ini memastikan bahwa gangguan sementara dapat dikelola secara efisien tanpa mempengaruhi kualitas layanan lainnya di ekosistem digital komplek.
+
+
+## IMS – Infrastructure Management System
+
+IMS adalah sistem manajemen infrastruktur yang mencakup pengelolaan perangkat digital dan fisik di lingkungan komplek.
+Melalui IMS, seluruh elemen infrastruktur seperti kabel fiber optik, perangkat barrier gate, router, CCTV, hingga perangkat penghuni dapat dicatat, dimonitor, dan dipelihara secara terstruktur dan terintegrasi.
+
+IMS mempermudah proses inventarisasi, maintenance, dan pengembangan infrastruktur, sehingga menjamin keandalan dan kontinuitas layanan digital bagi seluruh penghuni komplek.
