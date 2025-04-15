@@ -1,4 +1,4 @@
-# Jaringan Optik Terintegrasi
+# JariNGan Optik Terintegrasi
 
 ![logo](https://github.com/user-attachments/assets/5cb890a0-b541-4065-8643-38fa4405feaa)
 
