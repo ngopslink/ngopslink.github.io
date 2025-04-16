@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/5cb890a0-b541-4065-8643-38fa4405feaa)
 
-# NGOps | JariNGan Optik Terintegrasi
+# JariNGan Optik Terintegrasi
 *(Next Generation Optics Infrastructure)*
 
 NGOPS adalah singkatan dari Jaringan Optik Terintegrasi, sebuah infrastruktur backbone modern berbasis fiber optik yang dirancang khusus untuk kebutuhan lingkungan komplek.
