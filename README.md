@@ -35,12 +35,12 @@ DIMS adalah sistem manajemen data terintegrasi yang menjadi pusat pengelolaan se
 Mulai dari data penghuni, log akses TAMS, histori penggunaan layanan KUY, hingga performa jaringan GOW—semuanya dikelola dalam satu platform aman, efisien, dan mudah diakses oleh pihak pengelola.
 DIMS memungkinkan pengambilan keputusan berbasis data yang akurat, real-time, dan berkelanjutan.
 
-## IMS – Infrastructure Management System
+## IMS – Infrastruktur Rumah Berkualitas
 
-IMS adalah sistem manajemen infrastruktur yang mencakup pengelolaan perangkat digital dan fisik di lingkungan komplek.
-Melalui IMS, seluruh elemen infrastruktur seperti kabel fiber optik, perangkat barrier gate, router, CCTV, hingga perangkat penghuni dapat dicatat, dimonitor, dan dipelihara secara terstruktur dan terintegrasi.
+IMS adalah standar dan sistem pendukung untuk menciptakan hunian dengan infrastruktur digital yang berkualitas.
+Setiap rumah dalam komplek didesain dengan kelengkapan infrastruktur seperti jalur kabel optik internal, titik akses Wi-Fi strategis, dukungan smart home, serta konektivitas langsung ke jaringan NGOPS.
 
-IMS mempermudah proses inventarisasi, maintenance, dan pengembangan infrastruktur, sehingga menjamin keandalan dan kontinuitas layanan digital bagi seluruh penghuni komplek.
+Dengan IMS, penghuni tidak hanya menikmati layanan digital, tetapi juga mendapatkan rumah yang siap digital sejak awal—nyaman, modern, dan terintegrasi penuh dalam ekosistem digital komplek.
 
 ## GOBS – Gangguan Operasional Backbone Sementara
 
