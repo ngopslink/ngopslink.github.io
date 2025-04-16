@@ -1,15 +1,15 @@
-# JariNGan Optik Terintegrasi
-
 ![logo](https://github.com/user-attachments/assets/5cb890a0-b541-4065-8643-38fa4405feaa)
 
-Layanan Interkoneksi Jaringan Optik dalam lingkungan
+# NGOps | JariNGan Optik Terintegrasi
+*(Next Generation Optics Infrastructure)*
 
 NGOPS adalah singkatan dari Jaringan Optik Terintegrasi, sebuah infrastruktur backbone modern berbasis fiber optik yang dirancang khusus untuk kebutuhan lingkungan komplek.
 Dengan NGOPS, seluruh layanan digital—mulai dari internet berkecepatan tinggi, CCTV, sistem akses, hingga smart home device—dihubungkan dalam satu jaringan yang stabil, cepat, dan efisien.
 NGOPS membawa semangat konektivitas total dalam satu ekosistem terpadu yang siap membawa lingkungan ke era digital sesungguhnya.
 
-Semua elemen ini—NGOPS, TAMS, KUY, dan GOW—merupakan bagian dari ekosistem digital terpadu yang saling melengkapi untuk menciptakan komplek yang lebih aman, nyaman, dan cerdas.
+Nama NGOPS juga memiliki makna dalam versi internasional: **Next Generation Optics Infrastructure**, sebagai simbol bahwa sistem ini dirancang untuk mendukung kebutuhan digital masa kini dan masa depan.
 
+Semua elemen ini—NGOPS, TAMS, KUY, dan GOW—merupakan bagian dari ekosistem digital terpadu yang saling melengkapi untuk menciptakan komplek yang lebih aman, nyaman, dan cerdas.
 
 ## TAMS – Teknologi Akses Mandiri Cerdas
 
