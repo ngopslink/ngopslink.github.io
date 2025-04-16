@@ -42,7 +42,7 @@ Setiap rumah dalam komplek didesain dengan kelengkapan infrastruktur seperti jal
 
 Dengan IMS, penghuni tidak hanya menikmati layanan digital, tetapi juga mendapatkan rumah yang siap digital sejak awal—nyaman, modern, dan terintegrasi penuh dalam ekosistem digital komplek.
 
-## GOBS – Gangguan Operasional Backbone Sementara
+## GOBS – Gateway Operations & Backbone Support
 
 GOBS adalah sistem pemantauan dan pengelolaan gangguan operasional pada jaringan backbone NGOPS.
 Dengan GOBS, pengelola jaringan dapat mendeteksi gangguan atau penurunan performa jaringan dengan cepat, meminimalkan downtime, dan mengambil tindakan perbaikan segera.
