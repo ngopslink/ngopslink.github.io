@@ -47,4 +47,3 @@ Dengan IMS, penghuni tidak hanya menikmati layanan digital, tetapi juga mendapat
 GOBS adalah sistem pemantauan dan pengelolaan gangguan operasional pada jaringan backbone NGOPS.
 Dengan GOBS, pengelola jaringan dapat mendeteksi gangguan atau penurunan performa jaringan dengan cepat, meminimalkan downtime, dan mengambil tindakan perbaikan segera.
 Sistem ini memastikan bahwa gangguan sementara dapat dikelola secara efisien tanpa mempengaruhi kualitas layanan lainnya di ekosistem digital komplek.
-
