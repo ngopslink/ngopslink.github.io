@@ -47,3 +47,11 @@ Dengan IMS, penghuni tidak hanya menikmati layanan digital, tetapi juga mendapat
 GOBS adalah sistem pemantauan dan pengelolaan gangguan operasional pada jaringan backbone NGOPS.
 Dengan GOBS, pengelola jaringan dapat mendeteksi gangguan atau penurunan performa jaringan dengan cepat, meminimalkan downtime, dan mengambil tindakan perbaikan segera.
 Sistem ini memastikan bahwa gangguan sementara dapat dikelola secara efisien tanpa mempengaruhi kualitas layanan lainnya di ekosistem digital komplek.
+
+GPON (Gigabit Passive Optical Network) menggunakan panjang gelombang 
+1. 1490 nm untuk transmisi hilir (downstream)
+2. 1310 nm untuk transmisi hulu (upstream).
+
+Media converter Serat tunggal biasanya menggunakan panjang gelombang:
+1. A : 1310nm
+2. B : 1550nm
