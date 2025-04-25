@@ -49,6 +49,6 @@ Dengan GOBS, pengelola jaringan dapat mendeteksi gangguan atau penurunan perform
 Sistem ini memastikan bahwa gangguan sementara dapat dikelola secara efisien tanpa mempengaruhi kualitas layanan lainnya di ekosistem digital komplek.
 
 Penggunaan panjang gelombang dalam instalasi Fiber Optic Single Mode Serat Tunggal:
-1. 1310 nm untuk transmisi hulu : GPON dan Side A Media Converter
+1. 1310 nm untuk transmisi hulu : GPON dan Media Converter Side A
 2. 1490 nm untuk transmisi hilir: GPON
-3. 1550 nm untuk transmisi hilir: Side B Media Converter
+3. 1550 nm untuk transmisi hilir: Media Converter Side B
