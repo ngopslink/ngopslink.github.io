@@ -52,3 +52,5 @@ Penggunaan panjang gelombang dalam instalasi Fiber Optic Single Mode Serat Tungg
 1. 1310 nm untuk transmisi hulu : GPON dan Media Converter Side A
 2. 1490 nm untuk transmisi hilir: GPON
 3. 1550 nm untuk transmisi hilir: Media Converter Side B
+
+Hulu adalah sentral atau titik distribusi. Sedangkan hilir adalah user pengguna.
