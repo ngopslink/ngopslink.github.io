@@ -48,10 +48,7 @@ GOBS adalah sistem pemantauan dan pengelolaan gangguan operasional pada jaringan
 Dengan GOBS, pengelola jaringan dapat mendeteksi gangguan atau penurunan performa jaringan dengan cepat, meminimalkan downtime, dan mengambil tindakan perbaikan segera.
 Sistem ini memastikan bahwa gangguan sementara dapat dikelola secara efisien tanpa mempengaruhi kualitas layanan lainnya di ekosistem digital komplek.
 
-GPON (Gigabit Passive Optical Network) menggunakan panjang gelombang 
-1. 1490 nm untuk transmisi hilir (downstream)
-2. 1310 nm untuk transmisi hulu (upstream).
-
-Media converter Serat tunggal biasanya menggunakan panjang gelombang:
-1. A : 1310nm
-2. B : 1550nm
+Penggunaan panjang gelombang dalam instalasi Fiber Optic Single Mode Serat Tunggal:
+1. 1310 nm untuk transmisi hulu : GPON dan Side A Media Converter
+2. 1490 nm untuk transmisi hilir: GPON
+3. 1550 nm untuk transmisi hilir: Side B Media Converter
